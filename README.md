@@ -1,4 +1,4 @@
-# Qwen3 RAG Chat Application
+# RAG Chat Application
 
 ![demo](./assets/demo.gif)
 
