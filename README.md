@@ -25,8 +25,8 @@ A powerful RAG (Retrieval-Augmented Generation) chat application built with Stre
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Arindam200/awesome-ai-apps.git
-cd rag_apps/qwen3_rag
+git clone https://github.com/krushitghevariya/-RAG-Chat-Application
+cd -RAG-Chat-Application
 ```
 
 2. Install the required packages:
